@@ -38,5 +38,6 @@ jupyter notebook
 - \`matplotlib\`, \`seaborn\`
 - \`scikit-learn\`
 - \`jupyter\`
+- \`seaborn \`
 
 ---
