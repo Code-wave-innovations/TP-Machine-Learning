@@ -8,7 +8,7 @@ This project builds a machine learning model to **predict the median house value
 
 ### 1. Clone the repository
 \`\`\`bash
-git clone https://github.com/your-username/california-housing-ml.git
+git clone https://github.com/Code-wave-innovations/TP-Machine-Learning
 \`\`\`
 
 ### 2. Create a virtual environment (optional but recommended)
